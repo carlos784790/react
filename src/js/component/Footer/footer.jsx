@@ -1,12 +1,10 @@
 import React from 'react';
 import './footer.css';
-
 function Footer() {
     return (
-      <Footer className="Footer">
+      <footer className="footer">
         <p>&copy; Made by: Group 1</p>
-      </Footer>
+      </footer>
     );
   }
-
   export default Footer;

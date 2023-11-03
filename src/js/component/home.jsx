@@ -14,9 +14,13 @@ const Home = () => {
                 <Card title="Card Title 2" text="Some more example text to build on the card title." />
                 <Card title="Card Title 3" text="Further example text to build on the card title." />
                 <Card title="Card Title 4" text="Further example text to build on the card title." />
-            </div>
-            <Footer /> 
+          </div>
+            <Footer/>
         </div>
+        
+        
     );
+
 };
+
 export default Home;
