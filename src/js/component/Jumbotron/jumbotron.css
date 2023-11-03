@@ -11,3 +11,12 @@
   .jumbotron p {
     margin-top: 0;
   }
+  
+  .jumbotron {
+    background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/041.webp');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }

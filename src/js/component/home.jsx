@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from './Navbar/Navbar';
 import Jumbotron from './Jumbotron/Jumbotron';
 import Card from './Card/Card';
+import Footer from "./Footer/footer";
 //create your first component
 const Home = () => {
     return (
