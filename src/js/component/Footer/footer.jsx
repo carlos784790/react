@@ -3,9 +3,9 @@ import './footer.css';
 
 function Footer() {
     return (
-      <footer className="footer">
+      <Footer className="Footer">
         <p>&copy; Made by: Group 1</p>
-      </footer>
+      </Footer>
     );
   }
 
